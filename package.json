@@ -1,0 +1,17 @@
+{
+  "name": "tile-tracker",
+  "version": "1.0.0",
+  "description": "php tracking of tile key locators via web requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.6.0",
+    "leaflet": "^1.7.1"
+  },
+  "devDependencies": {}
+}
